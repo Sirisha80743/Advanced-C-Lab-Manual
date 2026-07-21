@@ -14,7 +14,7 @@ Else
 5.	Print details (e.age, e.n)
 6.	Return 0
  
-Program:
+## Program:
 ```
 #include <stdio.h>
 #include <string.h>
@@ -39,7 +39,7 @@ int main() {
     return 0;
 }
 ```
-Output:
+## Output:
 
 <img width="608" height="373" alt="image" src="https://github.com/user-attachments/assets/0b7c9f2b-b05a-4d03-9500-73c88c259875" />
 
@@ -63,7 +63,7 @@ Algorithm:
 6.	Print the result returned by the add function.
 7.	Return 0
  
-Program:
+## Program:
 ```
 #include<stdio.h>
 struct add
@@ -76,7 +76,7 @@ int main()
     printf("%d",n.a+n.b);
 }
 ```
-Output:
+## Output:
 
 <img width="353" height="314" alt="image" src="https://github.com/user-attachments/assets/afd76caa-59cc-4639-89d4-fe61b658483f" />
 
@@ -111,7 +111,7 @@ Use scanf to input the file name into the name array.
 4.	End the main function.
 5.	Return 0 to indicate successful program execution.
  
-Program:
+## Program:
 
 ```
 #include <stdio.h>
@@ -128,7 +128,7 @@ int main()
 }
 ```
 
-Output:
+## Output:
 
 <img width="989" height="469" alt="image" src="https://github.com/user-attachments/assets/7b6fd943-84fb-42e6-a7e2-d342eba4d116" />
 
@@ -159,7 +159,7 @@ Use scanf to input the file name into the name array and the number of strings i
 4.	End the main function.
 5.	Return 0 to indicate successful program execution.
  
-Program:
+## Program:
 ```
 #include <stdio.h>
 int main()
@@ -179,7 +179,7 @@ int main()
     printf("Data added Successfully\n");
 }
 ```
-Output:
+## Output:
 
 <img width="707" height="443" alt="image" src="https://github.com/user-attachments/assets/e95be652-7f92-40ea-8e93-46044ea42d2d" />
 
@@ -225,7 +225,7 @@ Algorithm:
 
 13.End the program by returning 0.
 
-Program:
+## Program:
 ```
 #include<stdio.h>
 struct std{
@@ -243,7 +243,7 @@ int main(){
     printf("Percentage is: %.2f",acc.per);
 }
 ```
-Output:
+## Output:
 
 <img width="576" height="279" alt="image" src="https://github.com/user-attachments/assets/55a90873-74bd-4793-933a-6fd7c5481876" />
 
